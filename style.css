@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap'); 
+ body {
+    
+    
+
+
+background: #1F2937
+;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+
+h2 {
+    color: #10B981;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 40px;
+    font-family: 'Karla', sans-serif;
+
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 40px;
+    font-family: 'Karla', sans-serif;
+}
+
+h3 {
+    color: whitesmoke;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    font-family: 'Karla', sans-serif;
+}
+
+
+#generate-btn {
+   
+    height: 50px;
+    margin-bottom: 50px;
+    background-color: #10B981;
+    color: white;
+    border-radius: 20px;
+    border-style: none;
+    font-family: 'Karla', sans-serif;
+    width: 200px;
+   
+}
+
+#generate-btn:hover {
+    background-color: #d4309e;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 300px;
+    background: #273549;
+    border-radius: 6px;
+    font-family: 'Karla', sans-serif;
+    color: #10B981;
+    
+    
+}
+
+.slider {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Karla', sans-serif;
+    color: whitesmoke;
+}
+
+#charNumber {
+    width: 2rem;
+    font-family: 'Karla', sans-serif;
+}
